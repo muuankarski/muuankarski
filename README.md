@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hei siellä!
+
+Luon tähän oman github-profiilini, johon kirjoitan projekteista joiden parissa työskentelen sekä siitä mitä osaan tai haluan oppia.
 
 <!--
 **muuankarski/muuankarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
