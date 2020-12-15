@@ -1,4 +1,4 @@
-### Markus Kainu!
+### Markus Kainu
 
 Handyman in research IT
 
