@@ -1,6 +1,8 @@
-### Hei siellä!
+### Markus Kainu!
 
-Luon tähän oman github-profiilini, johon kirjoitan projekteista joiden parissa työskentelen sekä siitä mitä osaan tai haluan oppia.
+Handyman in research IT
+
+Take a look at my personal website for more details at: http://markuskainu.fi/ 
 
 <!--
 **muuankarski/muuankarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
