@@ -2,7 +2,7 @@
 
 Handyman in research IT
 
-Take a look at my personal website for more details at: http://markuskainu.fi/ 
+Take a look at my personal website for more details at: https://markuskainu.fi/ 
 
 <!--
 **muuankarski/muuankarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
