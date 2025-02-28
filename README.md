@@ -4,6 +4,9 @@ Handyman in research IT
 
 Take a look at my personal website for more details at: http://markuskainu.fi/ 
 
+My Github activities are mostly at https://github.com/rOpenGov/ , and my personal projects have migrated to https://codeberg.org/muuankarski
+
+
 <!--
 **muuankarski/muuankarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
